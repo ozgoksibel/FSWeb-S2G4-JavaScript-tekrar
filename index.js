@@ -1,5 +1,6 @@
 /* Aşağıda global olarak tanımlanmış değişkenler bulunmaktadır, bunları değiştirmeyiniz. Açıklamaları takip ederek görevleri tamamlayın. */
 
+console.log("sibel ozgok");
 const pi = 3.14159;
 
 const sayilar = [
